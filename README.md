@@ -43,5 +43,6 @@ The objective of this task is to craft a user-friendly to-do list web app with C
 **JavaScript:** To add interactivity, manage task operations (adding, deleting, marking complete), and optionally use local storage to persist data.
 
 **Key JavaScript concepts:** Event Listeners, DOM Manipulation, Arrays, Local Storage API (optional).
+ ![image](https://github.com/user-attachments/assets/d12710c4-b36a-4a24-8ddc-6c0762fc3531)
 
 
