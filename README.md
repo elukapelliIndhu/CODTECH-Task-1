@@ -1,8 +1,13 @@
 **Name:**  Elukapelli Indhu
+
 **Company Name:**  CODTECH IT SOLUTIONS
+
 **ID: ** CT08DS7883
+
 **Domain :**  Web Development
-**Duration:** 5th september to 5th october
+
+**Duration:** september to october 2024
+
 **Mentor:**  Neela Santhosh Kumar
 
 
