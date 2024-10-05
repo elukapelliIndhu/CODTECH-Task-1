@@ -1,0 +1,82 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.app-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.todo-container {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+input#todo-input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button#add-task-btn {
+  padding: 10px;
+  margin-left: 10px;
+  border: none;
+  background-color: #5cb85c;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button#add-task-btn:hover {
+  background-color: #4cae4c;
+}
+
+/* To-Do List Styles */
+ul#todo-list {
+  list-style: none;
+  padding: 0;
+}
+
+ul#todo-list li {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f9f9f9;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+ul#todo-list li.completed {
+  text-decoration: line-through;
+  background-color: #d4edda;
+}
+
+ul#todo-list li button {
+  background-color: #d9534f;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+ul#todo-list li button:hover {
+  background-color: #c9302c;
+}
